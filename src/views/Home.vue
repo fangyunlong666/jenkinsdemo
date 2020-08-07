@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Jenkins 好的 666"/>
+    <HelloWorld msg="Welcome to Jenkins"/>
   </div>
 </template>
 
