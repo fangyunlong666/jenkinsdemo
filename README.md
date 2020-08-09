@@ -1,6 +1,6 @@
 # jenkinsdemo
 
-## Project setup
+## 新手入门
 ```
 npm install
 ```
